@@ -42,8 +42,7 @@ header i,header span{
     justify-content: space-between;
     align-items: center;
     padding-bottom:1rem ;
-    /* background: #fff; */
-    /* border-bottom: 1px solid #ddd; */
+   
   }
   
   .logo {
@@ -80,7 +79,7 @@ header i,header span{
   
   
   .hero {
-    background: url('./image/hero.jpg') no-repeat center center/cover;
+    background: url('hero.jpg') no-repeat center center/cover;
     height: 100vh;
     position: relative;
   }
